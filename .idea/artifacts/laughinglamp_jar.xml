@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="laughinglamp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/laughinglamp_jar</output-path>
+    <root id="archive" name="laughinglamp.jar">
+      <element id="module-output" name="laughinglamp" />
+    </root>
+  </artifact>
+</component>
